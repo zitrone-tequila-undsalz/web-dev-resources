@@ -12,6 +12,8 @@
 ### HTML EXERCISES
 
 - [W3Schools exercices](https://www.w3schools.com/html/html_exercises.asp)
+- [Frontendmasters bootcamp](https://frontendmasters.com/bootcamp/)
+- [Khan Academy](https://www.khanacademy.org/computing)
 
 ## CSS / Sass
 
@@ -26,6 +28,11 @@
 ### CSS EXERCISES
 
 - [W3Schools exercises](https://www.w3schools.com/css/css_exercises.asp)
+- [Frontendmasters bootcamp](https://frontendmasters.com/bootcamp/)
+- [What the Flexbox?!](https://flexbox.io/)
+- [Conquering responsive layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
+- [Khan Academy](https://www.khanacademy.org/computing)
+
 
 ### Sass (if needed)
 
@@ -36,16 +43,21 @@
 
 #### BASICS
 
-- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Introduction to JavaScript lessons](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Fundamentals of JavaScript](https://www.freecodecamp.org/news/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf/)
+- [JS Variables](https://www.freecodecamp.org/news/javascript-variables-beginners-guide/)
 - [JS Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [JS Loops](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
 - [JS Conditional Statements](https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/)
+- [JS Arrays](https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/)
+- [JS Functions](https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/)
+
 
 
 #### ADVANCED
 
 - [JS Concepts; Scope, Callbacks, IIFE, Hoisting](https://www.freecodecamp.org/news/learn-these-core-javascript-concepts-in-just-a-few-minutes-f7a16f42c1b0/)
+- [Understanding client side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 - [Front-End Development Trends](https://www.freecodecamp.org/news/front-end-development-trends/)
 
 
@@ -62,7 +74,10 @@
 
 ### JS EXERCISES
 
+
 - [W3Schools exercises](https://www.w3schools.com/js/js_exercises.asp)
+- [30 day Vanilla JS coding challenge](https://javascript30.com/)
+- [Khan Academy](https://www.khanacademy.org/computing)
 
 # TOOLS 💡
 
@@ -110,10 +125,11 @@
 - [HTML Color Codes](https://htmlcolorcodes.com/)
 
 
-### LIBRARIES
+### UI FRAMEWORKS / LIBRARIES
 
 - [Material UI](https://materialui.co/)
 - [Bootstrap](https://getbootstrap.com/)
+- [Tailwind](https://tailwindcss.com/)
 
 
 # DEPLOYING WEBSITE 🏗️
@@ -124,6 +140,8 @@
 
 # OTHERS 🚀
 
+- [Complete beginners - get started with the web!](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [How to code a website?](https://blog.hubspot.com/website/how-to-code-a-website)
 - [How to use Google?](https://support.google.com/websearch/answer/134479?hl=en)
 - [Chrome Developer Tool](https://developer.chrome.com/docs/devtools/)
 - [Learn to use Chrome Developer Tool crash course by FreeCodeCamp](https://www.youtube.com/watch?v=gTVpBbFWry8)
