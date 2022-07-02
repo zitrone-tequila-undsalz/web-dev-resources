@@ -65,10 +65,15 @@
 - [Front-End Development Trends](https://www.freecodecamp.org/news/front-end-development-trends/)
 
 
-#### DEBUGGING
+### DEBUGGING
 
 - [Debugging JavaScript code](https://www.w3schools.com/js/js_debugging.asp)
 - [How to use Visual Studio debugger?](https://code.visualstudio.com/docs/editor/debugging)
+
+### API
+
+- [What is an API?](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
+- [Free Public APIS](https://github.com/public-apis/public-apis)
 
 
 ### BROWSER JS & DOM
@@ -95,6 +100,9 @@
 
 - [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
+## PACKAGE MANAGERS
+
+- [Package management basics](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
 
 ## GIT
 
@@ -150,4 +158,5 @@
 - [How to use Google?](https://support.google.com/websearch/answer/134479?hl=en)
 - [Chrome Developer Tool](https://developer.chrome.com/docs/devtools/)
 - [Learn to use Chrome Developer Tool crash course by FreeCodeCamp](https://www.youtube.com/watch?v=gTVpBbFWry8)
-
+- [Test site's performance with Lighthouse](https://www.freecodecamp.org/news/introduction-to-chrome-lighthouse/)
+- [Frontend Developer road map](https://roadmap.sh/frontend)
