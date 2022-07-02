@@ -2,10 +2,10 @@
 
 ## HTML
 
-- [HTML Cheat Sheet](https://github.com/gendx/html-cheat-sheet)
+- [Learn HTML crash course by FreeCodeCamp](https://www.freecodecamp.org/news/learn-html-beginners-course/)
 - [What is semantic HTML?](https://www.freecodecamp.org/news/semantic-html5-elements/)
 - [HTML Forms](https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/)
-- [Learn HTML crash course by FreeCodeCamp](https://www.freecodecamp.org/news/learn-html-beginners-course/)
+- [HTML Cheat Sheet](https://github.com/gendx/html-cheat-sheet)
 - [Validate HTML Code](https://validator.w3.org/)
 
 
@@ -43,7 +43,7 @@
 
 #### BASICS
 
-- [Introduction to JavaScript lessons](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Introduction to JavaScript - Codecademy lessons](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Fundamentals of JavaScript](https://www.freecodecamp.org/news/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf/)
 
 #### FUNDAMENTALS SPECIFICALLY
@@ -54,6 +54,7 @@
 - [JS Conditional Statements](https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/)
 - [JS Arrays](https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/)
 - [JS Functions](https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/)
+- [JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 
 
@@ -80,6 +81,7 @@
 
 - [W3Schools exercises](https://www.w3schools.com/js/js_exercises.asp)
 - [30 day Vanilla JS coding challenge](https://javascript30.com/)
+- [Frontendmasters bootcamp](https://frontendmasters.com/bootcamp/)
 - [Khan Academy](https://www.khanacademy.org/computing)
 
 # TOOLS 💡
