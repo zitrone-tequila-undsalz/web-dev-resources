@@ -45,6 +45,9 @@
 
 - [Introduction to JavaScript lessons](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Fundamentals of JavaScript](https://www.freecodecamp.org/news/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf/)
+
+#### FUNDAMENTALS SPECIFICALLY
+
 - [JS Variables](https://www.freecodecamp.org/news/javascript-variables-beginners-guide/)
 - [JS Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [JS Loops](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
